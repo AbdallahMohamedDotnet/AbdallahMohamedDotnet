@@ -13,13 +13,10 @@ I'm **Abdallah Mohamed**, a passionate **.NET Developer** from Giza, Egypt, curr
 ### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Technologies
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-0078D4?style=for-the-badge&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools & Platforms
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -62,18 +59,6 @@ Each of my repositories follows these standards:
 - Proper project structure
 - Documentation for setup and usage
 - Regular commits with meaningful messages
-
----
-
-### 🔗 Quick Links to My Repositories:
-
-| Repository | Description | Tech Stack | Status |
-|------------|-------------|------------|---------|
-| [LapShop](https://github.com/abdallahmohameddotnet/LapShop) | E-commerce template for laptops | HTML, CSS, JS | ✅ Complete |
-| [Farm](https://github.com/abdallahmohameddotnet/Farm) | Agricultural management system | C#, .NET | 🔄 In Progress |
-| [AbdallahMohamedDotnet](https://github.com/abdallahmohameddotnet/AbdallahMohamedDotnet) | Profile configuration | Markdown | ✅ Complete |
-
----
 
 > 💡 **Tip:** Star ⭐ repositories you find interesting, and don't hesitate to fork and contribute!
 
