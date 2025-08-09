@@ -23,11 +23,6 @@ I'm **Abdallah Mohamed**, a passionate **.NET Developer** from Giza, Egypt, curr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdallahmohameddotnet&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahmohameddotnet&layout=compact&theme=radical)
 
 ## 🎯 Current Focus
 - 🔭 Working on expanding my .NET development skills
