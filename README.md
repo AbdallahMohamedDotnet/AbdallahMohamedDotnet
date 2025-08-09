@@ -6,35 +6,7 @@ I'm **Abdallah Mohamed**, a passionate **.NET Developer** from Giza, Egypt, curr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-mohamed-6724ba297)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahmohameddotnet)
 
-## 🚀 Featured Projects
 
-### 🛒 [LapShop](https://github.com/abdallahmohameddotnet/LapShop)
-**E-commerce Template for Laptop Sales**
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Description:** A responsive e-commerce template designed for laptop retail businesses
-- **Features:**
-  - Modern, clean design
-  - Mobile-responsive layout
-  - Product showcase capabilities
-  - User-friendly interface
-
-**🔗 [Live Demo](link-to-demo) | [Source Code](https://github.com/abdallahmohameddotnet/LapShop)**
-
----
-
-### 🌾 [Farm Management System](https://github.com/abdallahmohameddotnet/Farm)
-**Agricultural Management Application**
-- **Tech Stack:** C#, .NET Framework/Core
-- **Description:** A comprehensive farm management system for agricultural operations
-- **Key Features:**
-  - Farm operations tracking
-  - Resource management
-  - Data analytics for farming decisions
-  - User-friendly dashboard
-
-**🔗 [Documentation](link-to-docs) | [Source Code](https://github.com/abdallahmohameddotnet/Farm)**
-
----
 
 ## 💻 Tech Stack
 
@@ -76,7 +48,8 @@ I'm **Abdallah Mohamed**, a passionate **.NET Developer** from Giza, Egypt, curr
 ## 🤝 Let's Connect!
 I'm always interested in connecting with fellow developers, discussing new technologies, and collaborating on exciting projects.
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email:** [abdoooomohamed88@gmail.com](mailto:abdoooomohamed88@gmail.com)
+- -  - 📧 **University Email:** [a.mohamed0127@nub.edu.eg](mailto:a.mohamed0127@nub.edu.eg)
 - 💼 **LinkedIn:** [Abdallah Mohamed](https://www.linkedin.com/in/abdallah-mohamed-6724ba297)
 - 🌍 **Location:** Giza, Egypt
 - 🎓 **University:** Nahda University
