@@ -1,12 +1,36 @@
 # 👋 Welcome to My GitHub Profile
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Abdallah+Mohamed+%F0%9F%91%8B;Back-End+Developer+%F0%9F%9A%80;.NET+%26+Go+Specialist+%F0%9F%92%BB;Domain-Driven+Design+Beginner+%F0%9F%8F%97%EF%B8%8F" alt="Typing Animation">
+</div>
+
+<div align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200"/>
+</div>
+
 ## About Me
-I'm **Abdallah Mohamed**, a passionate **Full-Stack Developer** from Giza, Egypt, currently studying at Nahda University. I specialize in **.NET development**, **Go programming**, and **modern software architecture patterns** including **Domain-Driven Design (DDD)**. I'm dedicated to continuous learning and keeping pace with technological developments in the software development field, with expertise in **Model Context Protocol (MCP)** and **collaborative coding practices**.
+I'm **Abdallah Mohamed**, a passionate **Back-end Developer** from Giza, Egypt, currently studying at Nahda University. I specialize in **.NET development**, **Go programming**, and **modern software architecture patterns** including **Domain-Driven Design (DDD)**. I'm dedicated to continuous learning and keeping pace with technological developments in the software development field, with expertise in **Model Context Protocol (MCP)** and **collaborative coding practices**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-mohamed-6724ba297)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahmohameddotnet)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahmohameddotnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahmohameddotnet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahmohameddotnet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
 ## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,sqlserver,git,github,visualstudio" alt="Tech Stack" />
+</div>
 
 ### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -43,6 +67,9 @@ I'm **Abdallah Mohamed**, a passionate **Full-Stack Developer** from Giza, Egypt
 
 
 ## 🎯 Current Focus
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 - 🔭 Working on expanding my **Go** and **.NET** development skills
 - 🏗️ Implementing **Domain-Driven Design (DDD)** in enterprise applications
 - 🌐 Mastering **Model Context Protocol (MCP)** for AI-powered development
@@ -50,6 +77,8 @@ I'm **Abdallah Mohamed**, a passionate **Full-Stack Developer** from Giza, Egypt
 - 🌱 Learning advanced **microservices architecture** patterns
 - 👯 Looking to collaborate on open-source **Go** and **.NET** projects
 - 💬 Ask me about **C#**, **Go**, **DDD**, **Clean Architecture**, and modern development practices
+
+<br clear="both"/>
 
 ## 📈 Learning Path
 - ✅ Fundamentals of **C#** and **.NET**
@@ -64,6 +93,19 @@ I'm **Abdallah Mohamed**, a passionate **Full-Stack Developer** from Giza, Egypt
 - ⏳ Cloud development with **Azure** and **Go** containerization
 
 ## 🤝 Let's Connect!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoooomohamed88@gmail.com)
+[![University Email](https://img.shields.io/badge/University_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:a.mohamed0127@nub.edu.eg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-mohamed-6724ba297)
+
+</div>
+
 I'm always interested in connecting with fellow developers, discussing new technologies, and collaborating on exciting projects.
 
 - 📧 **Email:** [abdoooomohamed88@gmail.com](mailto:abdoooomohamed88@gmail.com)
@@ -84,3 +126,13 @@ Each of my repositories follows these standards:
 > 💡 **Tip:** Star ⭐ repositories you find interesting, and don't hesitate to fork and contribute!
 
 **Thank you for visiting my GitHub profile! Happy coding! 🚀**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" height="70"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70" height="70"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" height="70"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdallahmohameddotnet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
