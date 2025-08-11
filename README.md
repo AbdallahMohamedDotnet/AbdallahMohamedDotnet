@@ -14,17 +14,7 @@ I'm **Abdallah Mohamed**, a passionate **Back-end Developer** from Giza, Egypt, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-mohamed-6724ba297)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahmohameddotnet)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahmohameddotnet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahmohameddotnet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahmohameddotnet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 💻 Tech Stack
 
