@@ -12,9 +12,17 @@ I'm **Abdallah Mohamed**, a passionate **Full-Stack Developer** from Giza, Egypt
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Frameworks & Technologies
+### Backend Frameworks & Technologies
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-0078D4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0078D4?style=for-the-badge&logo=.net&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gorilla Mux](https://img.shields.io/badge/Gorilla_Mux-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Database Technologies
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 ### Architecture & Design Patterns
