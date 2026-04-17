@@ -75,14 +75,13 @@ I'm **Abdallah Mohamed**, a passionate **Back-end Developer** from Giza, Egypt, 
 - ✅ **Go programming** and concurrent programming patterns
 - ✅ Web development with **ASP.NET**
 - ✅ **Domain-Driven Design (DDD)** principles and implementation
-- 🔄 **Model Context Protocol (MCP)** for AI integration
-- 🔄 **Vibecoding** and modern collaborative development practices
-- 🔄 Advanced **Clean Architecture** and **CQRS** patterns
+- ✅ **Model Context Protocol (MCP)** for AI integration
+- ✅ **Vibecoding** and modern collaborative development practices
+- ✅ Advanced **Clean Architecture** and **CQRS** patterns
 - 🔄 **Microservices architecture** with **Go** and **.NET**
 - ⏳ **Event Sourcing** and distributed systems
-- ⏳ Cloud development with **Azure** and **Go** containerization
+- ✅ Designing and implementing fully integrated AI solutions with actionable workflows using Azure AI Foundry
 
-## 🤝 Let's Connect!
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
