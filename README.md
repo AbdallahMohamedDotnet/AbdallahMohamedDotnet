@@ -9,7 +9,7 @@
 </div>
 
 ## About Me
-I'm **Abdallah Mohamed**, a passionate **Software Engineer** at **Nancy AI** in Amsterdam. I specialize in **.NET development**, **Go programming**, and **modern software architecture patterns** including **Domain-Driven Design (DDD)**. I'm dedicated to continuous learning and keeping pace with technological developments in the software development field, with expertise in **Model Context Protocol (MCP)** and **collaborative coding practices**.
+I'm **Abdallah Mohamed**, a passionate **Software Engineer** at **Nancy AI** in Amsterdam, currently studying at Nahda University. I specialize in **.NET development**, **Go programming**, and **modern software architecture patterns** including **Domain-Driven Design (DDD)**. I'm dedicated to continuous learning and keeping pace with technological developments in the software development field, with expertise in **Model Context Protocol (MCP)** and **collaborative coding practices**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-mohamed-6724ba297)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahmohameddotnet)
