@@ -9,7 +9,7 @@
 </div>
 
 ## About Me
-I'm **Abdallah Mohamed**, a passionate **Back-end Developer** from Giza, Egypt, currently studying at Nahda University. I specialize in **.NET development**, **Go programming**, and **modern software architecture patterns** including **Domain-Driven Design (DDD)**. I'm dedicated to continuous learning and keeping pace with technological developments in the software development field, with expertise in **Model Context Protocol (MCP)** and **collaborative coding practices**.
+I'm **Abdallah Mohamed**, a passionate **Software Engineer** at **Nancy AI** in Amsterdam, currently studying at Nahda University. I specialize in **.NET development**, **Go programming**, and **modern software architecture patterns** including **Domain-Driven Design (DDD)**. I'm dedicated to continuous learning and keeping pace with technological developments in the software development field, with expertise in **Model Context Protocol (MCP)** and **collaborative coding practices**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-mohamed-6724ba297)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdallahmohameddotnet)
@@ -100,7 +100,7 @@ I'm always interested in connecting with fellow developers, discussing new techn
 - 📧 **Email:** [abdoooomohamed88@gmail.com](mailto:abdoooomohamed88@gmail.com)
 - 📧 **University Email:** [a.mohamed0127@nub.edu.eg](mailto:a.mohamed0127@nub.edu.eg)
 - 💼 **LinkedIn:** [Abdallah Mohamed](https://www.linkedin.com/in/abdallah-mohamed-6724ba297)
-- 🌍 **Location:** Giza, Egypt
+- 🌍 **Location:** Amsterdam, Netherlands
 - 🎓 **University:** Nahda University
 
 ## 📝 Repository Structure
