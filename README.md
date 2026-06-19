@@ -101,7 +101,7 @@ I'm always interested in connecting with fellow developers, discussing new techn
 - 📧 **University Email:** [a.mohamed0127@nub.edu.eg](mailto:a.mohamed0127@nub.edu.eg)
 - 💼 **LinkedIn:** [Abdallah Mohamed](https://www.linkedin.com/in/abdallah-mohamed-6724ba297)
 - 🌍 **Location:** Amsterdam, Netherlands
-- 🎓 **University:** Nahda University Beni Suef is located in Upper Egypt
+- 🎓 **University:** Nahda University in Beni Suef is located in Upper Egypt
 
 ## 📝 Repository Structure
 
