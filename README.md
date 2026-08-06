@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **final-semester Computer Science student** (Egypt) working remotely as an **Intern Software Engineer at Nancy AI** (Netherlands). I build backend systems and distributed architectures, and I'm working toward a **Junior Backend Engineer** role, followed by a **Master's in Applied CS/Software Engineering in Germany**.
+I'm a **final-semester Computer Science student** (Egypt) working remotely as an **Intern Software Engineer at Nancy AI** (Netherlands). I build backend systems and distributed architectures, and I'm working toward a **Junior Backend Engineer** role.
 
 - 🎯 Focused on **Clean Architecture, SOLID, DDD** — production-ready, strongly-typed, high-performance systems
 - 🧠 Backend with **C#/.NET and Go**, data with **PostgreSQL, ClickHouse, MongoDB**, deployed on **AWS**
