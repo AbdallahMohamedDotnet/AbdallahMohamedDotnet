@@ -89,25 +89,27 @@ My main focus is backend engineering: building maintainable, scalable systems wi
 
 <br/>
 
-## 📊 Contribution Activity
+## ⚡ Activity Pulse
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahMohamedDotnet&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=850&height=70&lines=Building+Backend+Systems+%F0%9F%9A%80;Designing+Distributed+Architectures+%E2%9A%99%EF%B8%8F;Writing+C%23+%2F+.NET+%26+Go+%F0%9F%92%BB;Working+with+Docker+%26+Kubernetes+%E2%98%81%EF%B8%8F;Exploring+AI+Agents+%26+MCP+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%94%A5"
+  alt="Activity Animation"
+/>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🚀 Currently Building
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdallahMohamedDotnet/AbdallahMohamedDotnet/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdallahMohamedDotnet/AbdallahMohamedDotnet/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbdallahMohamedDotnet/AbdallahMohamedDotnet/output/github-contribution-grid-snake.svg">
-</picture>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=600&color=00ADD8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%24+initializing+backend+engineer...;%3E+loading+C%23+%7C+.NET+%7C+Go;%3E+connecting+PostgreSQL+%7C+RabbitMQ+%7C+Redis;%3E+deploying+Docker+%7C+Kubernetes+%7C+AWS;%3E+building+distributed+systems...;%E2%9C%94+system+ready."
+  alt="Currently Building Animation"
+/>
 
 </div>
 
@@ -128,6 +130,14 @@ My main focus is backend engineering: building maintainable, scalable systems wi
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=AbdallahMohamedDotnet&label=Profile%20Views&color=0078D4&style=flat" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3500&pause=1500&color=00ADD8&center=true&vCenter=true&width=700&lines=Backend+first.+Simple+where+possible.;Scalable+where+needed.+%E2%9A%A1;Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="Footer Typing Animation" />
 
 </div>
 
